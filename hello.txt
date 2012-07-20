@@ -4,3 +4,4 @@ hello3
 hello4
 Hello
 ohama hello
+ohama test 2
